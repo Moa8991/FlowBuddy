@@ -198,3 +198,7 @@ devise（認証）, simple_form, active_storage, dotenv-rails
 JSライブラリ
 
 Stimulus（軽いUI制御）, Turbo（非同期遷移）
+
+### 画面遷移図
+Figma：https://www.figma.com/design/CdheklGy791wt9BYfUGbR5/Untitled?node-id=0-1&m=dev&t=JtlTmSJsVtyKGN16-1
+
