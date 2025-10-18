@@ -1,0 +1,6 @@
+<h1 id="<%= dom_id(routine, :name) %>" class="text-4xl font-bold text-gray-900 inline-block"><%= h(routine.name) %></h1>
+<%= link_to "編集",
+            edit_name_routine_path(routine),
+            data: { turbo_frame: "routine_name" },
+            class: "ml-4 text-sm text-indigo-600 hover:underline",
+            aria: { label: "Edit routine name" } %>
